@@ -1,5 +1,6 @@
 # Curso Microsserviços Java com Spring Boot e Spring Cloud
-#### Nelio Alves 
+
+#### Créditos ao professor Nelio Alves 
 https://www.udemy.com/user/nelio-alves
 
 https://youtube.com/devsuperior
